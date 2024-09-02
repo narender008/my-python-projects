@@ -1,0 +1,8 @@
+John Doe,25,USA
+Jane Smith,30,Canada
+Bob Johnson,35,UK
+Alice Brown,20,Australia
+Mike Davis,40,Germany
+Emily Chen,28,China
+David Lee,32,Japan
+Sophia Patel,22,India
