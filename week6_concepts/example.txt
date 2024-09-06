@@ -1,0 +1,1 @@
+this is newly created file with open file.
