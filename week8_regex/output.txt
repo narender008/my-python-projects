@@ -1,0 +1,15 @@
+name of user is John Doe with phone 1234567890 and email john.doe@example.com
+name of user is Jane Smith with phone 0987654321 and email jane.smith@example.com
+name of user is Bob Johnson with phone 9876543210 and email bob.johnson@example.com
+name of user is Alice Brown with phone 8765432109 and email alice.brown@example.com
+name of user is Mike Green with phone 7654321098 and email mike.green@example.com
+name of user is Sarah White with phone 6543210987 and email sarah.white@example.com
+name of user is Tom Red with phone 5432109876 and email tom.red@example.com
+name of user is Linda Blue with phone 4321098765 and email linda.blue@example.com
+name of user is David Gray with phone 3210987654 and email david.gray@example.com
+name of user is Karen Yellow with phone 2109876543 and email karen.yellow@example.com
+name of user is Richard Black with phone 1098765432 and email richard.black@example.com
+name of user is Emily Orange with phone 0897654321 and email emily.orange@example.com
+name of user is William Purple with phone 0786543210 and email william.purple@example.com
+name of user is Jessica Pink with phone 0675432109 and email jessica.pink@example.com
+name of user is Michael Brown with phone 0564321098 and email michael.brown@example.com
